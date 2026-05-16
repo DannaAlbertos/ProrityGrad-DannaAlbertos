@@ -46,4 +46,7 @@ Por otro lado, acepto la limitación técnica de que las peticiones del usuario 
 
 ## Diagrama
 
-![Diagrama del sistema]( ./ruta/diagrama-nivel-1.png )
+![Diagrama del sistema]
+
+<img width="461" height="321" alt="PriorityGrad drawio" src="https://github.com/user-attachments/assets/d1bc42b3-8e23-47e6-9860-e3c53c97112c" />
+

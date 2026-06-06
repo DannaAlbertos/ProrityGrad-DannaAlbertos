@@ -63,4 +63,26 @@ Deuda o riesgo: La vista física asume un despliegue sencillo en un solo servido
 
 Un boceto de cómo se estructura tu sistema (draw.io, Mermaid o a mano escaneado)
 
-![Diagrama del sistema]( ./ruta/diagrama-nivel-1.png )
+Vista Lógica : 
+
+<img width="470" height="533" alt="Captura de pantalla 2026-06-05 234921" src="https://github.com/user-attachments/assets/de5ca02e-85f6-450c-8629-f38084a20221" />
+
+
+Vista Física : 
+
+<img width="610" height="518" alt="Captura de pantalla 2026-06-05 234959" src="https://github.com/user-attachments/assets/660341cc-9cdb-48eb-b50d-cd7f8f8fadbb" />
+
+
+Vista de despliegue :
+
+<img width="1221" height="473" alt="Captura de pantalla 2026-06-05 234728" src="https://github.com/user-attachments/assets/9b3d5c35-d92b-4eab-932d-49d14bf185c7" />
+
+
+Vista de procesos : 
+
+<img width="676" height="172" alt="Captura de pantalla 2026-06-05 234845" src="https://github.com/user-attachments/assets/d4ecaeb8-7ad5-4b20-8435-cb914307e4d1" />
+
+
+## Declaración uso de AI
+Yo Danna Pamela Albertos Sosa, declaro que efectivamente si utilicé AI para la finalización de la entrega de esta actividad.
+

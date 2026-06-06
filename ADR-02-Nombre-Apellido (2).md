@@ -1,4 +1,4 @@
-# ADR-01: [Vistas Arquitectónicas de PriorityGrad]
+# ADR-02: [Vistas Arquitectónicas de PriorityGrad]
 
 | Campo  | Valor |
 |--------|-------|

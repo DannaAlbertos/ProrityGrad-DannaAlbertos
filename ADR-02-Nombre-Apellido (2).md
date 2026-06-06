@@ -61,7 +61,7 @@ Deuda o riesgo: La vista física asume un despliegue sencillo en un solo servido
 
 ## Diagrama
 
-Un boceto de cómo se estructura tu sistema (draw.io, Mermaid o a mano escaneado)
+Maestro una disculpa, lo hice en canva por cuestión de tiempos :((
 
 Vista Lógica : 
 
